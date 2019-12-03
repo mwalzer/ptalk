@@ -5,3 +5,4 @@ The *P*roteomics analysis pipeline (ptalk) can be used to perform different data
 ![](https://github.com/bigbio/ptalk/raw/master/docs/workflow.png)
 
 
+Note: Please if you update the pipeline logic or want to change the pipeline logic use the document (https://github.com/bigbio/ptalk/blob/master/docs/workflow.pptx).
