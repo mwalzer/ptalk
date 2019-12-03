@@ -11,7 +11,6 @@ Please if you update the pipeline logic or want to change the pipeline logic use
 
 ---
 
-
 ## Pipeline aims:
 
 - Provide a DDA analysis pipeline that can automatically process sdrf [experimental design files](https://github.com/PRIDE-Archive/pride-metadata-standard/).
@@ -32,4 +31,6 @@ Datasets:
 - NCI60: Three different PX datasets related with the following manuscript (PMID: 23933261). https://github.com/PRIDE-Archive/pride-metadata-standard/blob/master/experimental-design/examples/NCI60/sdrf.tsv
 
 - PXD010154: A deep proteome and transcriptome abundance atlas of 29 healthy human tissues (PMID: 30777892). https://github.com/PRIDE-Archive/pride-metadata-standard/blob/master/experimental-design/examples/PXD010154/sdrf.tsv
+
+- PXD000612 (Phospho proteomics experiment): Ultra-deep human phosphoproteome reveals different regulatory nature of Tyr and Ser/Thr-based signaling (PMID: 25159151). https://github.com/PRIDE-Archive/pride-metadata-standard/blob/master/experimental-design/examples/PXD000612/sdrf.tsv
 
