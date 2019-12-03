@@ -34,3 +34,13 @@ Datasets:
 
 - PXD000612 (Phospho proteomics experiment): Ultra-deep human phosphoproteome reveals different regulatory nature of Tyr and Ser/Thr-based signaling (PMID: 25159151). https://github.com/PRIDE-Archive/pride-metadata-standard/blob/master/experimental-design/examples/PXD000612/sdrf.tsv
 
+
+## Contributing:
+
+Whether you want to make your use ptalk or contribute to the development of the pipeline, you are most welcome. This is a community-driven project, that means everyone has a voice.
+
+Here are some general ideas:
+
+- Browse our list of issues and propose your idea.
+- Test the pipeline with your own data.
+- Propose new tool to replace exiting tools.
