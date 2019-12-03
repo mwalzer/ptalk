@@ -12,6 +12,21 @@ Please if you update the pipeline logic or want to change the pipeline logic use
 ---
 
 
+## Pipeline aims:
+
+- Provide a DDA analysis pipeline that can automatically process sdrf [experimental design files](https://github.com/PRIDE-Archive/pride-metadata-standard/).
+- A standardized pipeline that can be use to reanalyze PRIDE experiments to provide peptide/protein evidences to Uniprot/ENSEMBL resources.
+- A standardized pipeline that can be use to reanalyze PTM PRIDE experiments to provide PTM evidences to UNIPROT/ENSEMBL resources.
+
+## Architecture:
+
+We will use [Nextflow](https://www.nextflow.io/) and [BioContainers](https://biocontainers.pro/) to build the pipeline. Every tool should be deposited in BioContainers (we recommended to provide the tools via Conda packages -> BioContainers).
+
+Two main profiles will defined the way the pipeline will be used in production:
+
+ - Kubernetes (Cloud infrastructure)
+ - LSF (HPC EBI)
+
 Datasets:
 
 - NCI60: Three different PX datasets related with the following manuscript (PMID: 23933261). https://github.com/PRIDE-Archive/pride-metadata-standard/blob/master/experimental-design/examples/NCI60/sdrf.tsv
