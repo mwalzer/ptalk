@@ -37,7 +37,7 @@ Datasets:
 
 ## Contributing:
 
-Whether you want to make your use ptalk or contribute to the development of the pipeline, you are most welcome. This is a community-driven project, that means everyone has a voice.
+Whether you want to make your use **ptalk** or contribute to the development of the pipeline, you are most welcome. This is a community-driven project, that means everyone has a voice.
 
 Here are some general ideas:
 
